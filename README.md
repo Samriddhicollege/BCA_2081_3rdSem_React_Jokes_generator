@@ -1,5 +1,5 @@
 
-# 🔥 STUDENT ROAST GENERATOR
+# 🔥AI-Based 3-tier Roasting on the basis of course selection.
 
 > *A Hacker-Themed Comedy App That Roasts Students Based on Their Course*
 
