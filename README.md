@@ -51,20 +51,13 @@
 
 ### Frontend
 
-* **React.js (v19.2.4)** - UI library
-* **HTML5** - Semantic markup
-* **CSS3** - Styling with neon and glitch effects
-* **JavaScript (ES6+)** - Modern JavaScript
-
-### Build & Development Tools
-
-* **Vite (v8.0.1)** - Fast build tool and development server
-* **ESLint (v9.39.4)** - Code quality and linting
-* **Chart.js (v4.5.1)** - Data visualization
-
-### Version Control
-
-* **Git & GitHub** - Repository management
+* **React.js 
+* **HTML5** 
+* **CSS3
+* **JavaScript
+## Others tools:
+*Git and Github
+*vercel for deploy
 
 ---
 
@@ -195,7 +188,10 @@ npm run lint
 * ✅ Tested component rendering and styling consistency
 * ✅ Verified animation smoothness and performance
 
----
+---_
+##GitHUb and Live Demo
+*Github Repo:(https://github.com/Samriddhicollege/BCA_2081_3rdSem_React_Jokes_generator)
+*Live URL:[bca-2081-3rd-sem-react-jokes-genera.vercel.app]
 
 ## 🚧 Challenges Faced
 
@@ -226,17 +222,7 @@ npm run lint
 
 ---
 
-## 📚 References
 
-* [React Documentation](https://react.dev)
-* [Vite Guide](https://vitejs.dev)
-* [JavaScript ES6+](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
-* [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
-* [Chart.js Documentation](https://www.chartjs.org)
-* [HTML5 localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-
----
 
 ## 🙏 Acknowledgement
 
@@ -250,6 +236,6 @@ npm run lint
 
 ---
 
-**Project Status:** ✅ Submitted for Academic Evaluation  
-**Last Updated:** March 31, 2026  
+**Project Status:** Submitted for Academic Evaluation  
+**Last Updated:** 1st april, 2026  
 **Version:** 1.0.0
